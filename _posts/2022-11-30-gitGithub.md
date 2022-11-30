@@ -85,5 +85,5 @@ git checkout <branch_name>
 ```git
  git merge <branch_name>
 ```
-???
+
 [Back](https://solbum.github.io/)
