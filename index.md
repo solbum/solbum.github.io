@@ -14,7 +14,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 <dd>Git is a version management system for conveniently and specifically recording when and what changes were made whenever a document was modified.</dd>
 
 <dt>Backup</dt>
-<dd>**Backup** is to replicate data that is currently on a computer to another computer</dd>
+<dd>Backup is to replicate data that is currently on a computer to another computer</dd>
 
 <dt>Collaboration</dt>
 <dd>Using online services such as GitHub, team members can comfortably exchange and work with GitHub.</dd>
@@ -91,6 +91,10 @@ git checkout <branch_name>
 ***
 ***
 ***
+
+# [Jekyll](/_posts/2022-11-30-jekyll.md)
+
+## First, Download 
 
 ## Header 2
 
