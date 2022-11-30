@@ -1,0 +1,25 @@
+title: Title
+logo: /assets/img/logo.jpg
+email: solbum0418@kookmin.ac.kr
+description: Minimalistic is a theme powered by Jekyll.
+favicon: true
+color-scheme: auto
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/solbum
+
+navigation:
+  - name: Readme
+    link: ./index.html
+    sublist:
+      - name: Image
+        link: ./index.html#small-image
+  - name: Another Page
+    link: ./another-page.html
