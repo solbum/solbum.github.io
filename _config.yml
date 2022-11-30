@@ -19,5 +19,8 @@ platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/solbum
+
+
+navigation:
   - name: Comment
     link: ./another-page.html

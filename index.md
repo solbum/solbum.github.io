@@ -2,9 +2,6 @@
 layout: default
 ---
     
-
-[Comment](/_posts/2022-11-30-commnet.md)
-
 # Posts
 
 ***
