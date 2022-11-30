@@ -1,5 +1,6 @@
 ---
 layout: default
+favicon: true
 ---
     
 # Posts

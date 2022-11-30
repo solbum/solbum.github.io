@@ -24,3 +24,5 @@ platforms:
 navigation:
   - name: Comment
     link: ./another-page.html
+
+url: https://solbum.github.io
