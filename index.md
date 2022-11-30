@@ -6,10 +6,12 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Comment](./another-page.html).
 
-# [Git & Github](/_posts/2022-11-30-gitGithub.md)
+#Posts
+
+## [Git & Github](/_posts/2022-11-30-gitGithub.md)
 
 
-# [Jekyll](/_posts/2022-11-30-jekyll.md)
+## [Jekyll](/_posts/2022-11-30-jekyll.md)
 
 ## First, Download 
 
