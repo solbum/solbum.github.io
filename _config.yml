@@ -14,16 +14,3 @@ platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/solbum
-
-navigation:
-  - name: Readme
-    link: ./index.html
-    sublist:
-      - name: Git & Github
-        url: /_posts/2022-11-30-gitGithub.md
-      - name: Jakyll
-        url: /_posts/2022-11-30-jekyll.md
-      - name: Image
-        link: ./index.html#small-image
-  - name: Another Page
-    link: ./another-page.html
