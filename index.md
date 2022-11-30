@@ -6,7 +6,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Comment](./another-page.html).
 
-#Posts
+# Posts
 
 ## [Git & Github](/_posts/2022-11-30-gitGithub.md)
 
