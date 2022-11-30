@@ -19,10 +19,7 @@ platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/solbum
-
-
-navigation:
   - name: Comment
-    link: ./another-page.html
+    link: https://solbum.github.io/another-page.html
 
 url: https://solbum.github.io
