@@ -20,9 +20,9 @@ navigation:
     link: ./index.html
     sublist:
       - name: Git & Github
-        ling: ./_posts/2022-11-30-gitGithub.md
+        url: /_posts/2022-11-30-gitGithub.md
       - name: Jakyll
-        link: ./_posts/2022-11-30-jekyll.md
+        url: /_posts/2022-11-30-jekyll.md
       - name: Image
         link: ./index.html#small-image
   - name: Another Page
