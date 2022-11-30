@@ -3,7 +3,7 @@ layout: default
 ---
     
 
-[Comment](./another-page.html).
+[Comment](/_posts/2022-11-30-commnet.md)
 
 # Posts
 
