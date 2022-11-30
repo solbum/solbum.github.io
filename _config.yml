@@ -15,7 +15,7 @@ platforms:
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/solbum
 
-comment:
-    provider:       "disqus"
+comments:
+    provider: "disqus"
     disqus:         
-        shortname:  "bumwhale"
+        shortname: "bumwhale"
