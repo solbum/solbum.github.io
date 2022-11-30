@@ -50,3 +50,11 @@
 50. 뭔가 이상하지만 유일하게 보이는 방법이었다.
 51. 댓글 기능을 구현한 후 favicon을 구현해봤다.
 52. 검색해보면 다 HTML에 적으라고 되어있지만 나는 index.md이기에 가능한 방법들을 찾아보았다.
+53. favicon을 열심히 찾아본 결과 /assets/logo.ico를 생성하고 그 파일 안에 favicon에 사용할 이미지들을 집어 넣는다.
+54. 그리고 /_include/head_custom.html 안에 첫 주석과 마지막 주석을 남기고 가운데를 전부 지워준다.
+55. favicon을 만들어주는 사이트를 가보면 코드를 주는데 그 코드를 head_custom.html 주석 사이에 넣어준다.
+56. 그리고 중요한 건지는 모르겠지만 _config.yml 파일 안에 url: https://<username>.github.io를 작성해준다.
+57. 조금만 기다리면 Git Blog에 favicon이 추가됐을 것이다.
+58. 이번에 나는 Git Blog를 만들어봤는데 Git, Jekyll, html, Markdown 다 처음 써보는 것들이었다.
+59. 그래서 많이 어려웠지만 열심히 만들었다.
+60. 하지만 결과물이 심심하고 단조로워 아쉽다.
