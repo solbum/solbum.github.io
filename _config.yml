@@ -5,6 +5,11 @@ description: Minimalistic is a theme powered by Jekyll.
 favicon: true
 color-scheme: auto
 
+comments:
+    provider: disqus
+    disqus:         
+        shortname: bumwhale
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
@@ -14,8 +19,3 @@ platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/solbum
-
-comments:
-    provider: "disqus"
-    disqus:         
-        shortname: "bumwhale"
