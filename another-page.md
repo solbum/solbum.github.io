@@ -3,9 +3,7 @@ layout: post
 comments: true
 ---
 
-## Welcome to another page
+## Welcome to Comments
 
-_yay_
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [back](./)
