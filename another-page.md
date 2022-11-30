@@ -1,6 +1,6 @@
 ---
 layout: post
-Comments: true
+comments: true
 ---
 
 ## Welcome to another page
