@@ -5,7 +5,6 @@ date:	2022-11-30 20:52:37 +0900
 categories: gitGithub update
 ---
 
-# Git & Github
 ![GitImage](https://images.velog.io/images/leobit/post/76a66545-6226-411b-9346-61ba0e9531cc/git.png)
 
 ## What if Git?
@@ -86,3 +85,5 @@ git checkout <branch_name>
 ```git
  git merge <branch_name>
 ```
+
+[Back](./)
